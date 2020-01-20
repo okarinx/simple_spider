@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b236b20e-6943-492e-8027-a3d3e2160241" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/simple_spider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LagouSearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LagouSearcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LagouSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LagouSearcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +34,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1WbD6phBzgPANESeLx8sl0ma2Ab" />
   <component name="ProjectViewState">
@@ -101,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579409227081</updated>
       <workItem from="1579409231447" duration="4469000" />
-      <workItem from="1579418940052" duration="7936000" />
+      <workItem from="1579418940052" duration="8723000" />
     </task>
     <servers />
   </component>
